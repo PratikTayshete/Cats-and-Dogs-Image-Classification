@@ -1,5 +1,5 @@
 # Cats-and-Dogs-Image-Classification
-Implementing a Transfer Learning model to classify images of cats and dogs.
+Implemented a Transfer Learning model to classify images of cats and dogs.
 
 You can use google colab to load and run the notebook - https://colab.research.google.com/
 
